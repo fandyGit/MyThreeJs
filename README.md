@@ -1,2 +1,2 @@
 # MyThreeJs
-threejs练习dem
+学习threejs练习demo
